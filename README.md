@@ -1,6 +1,8 @@
 # censReg
 Censored Regression (Tobit) Models Use censReg With (In) R Software
 
+https://www.youtube.com/watch?v=xTfY-1oMIgE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
